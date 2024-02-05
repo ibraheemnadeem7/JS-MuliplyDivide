@@ -1,6 +1,4 @@
-# MakeFile to deploy the Sample US CENSUS Name Data 
-# server using Python Microservice
-# For MATH318 Software Development
+# Makefile for web deployment
 
 all: PutHTML
 
